@@ -1,4 +1,4 @@
-# # Skills
+# Skills
 
 A collection of custom skills for AI coding agents and other workflows.
 
