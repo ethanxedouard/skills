@@ -21,6 +21,20 @@ The skill is designed to improve how relevant experience is presented without in
 
 *More skills will be added as they are developed.*
 
+### College Tutor
+
+Teaches college course material using a structured, two-layer learning approach.
+
+- Reads lecture slides, PDFs, textbook excerpts, assignments, and notes.
+- Explains concepts using simple analogies before introducing college-level technical explanations.
+- Walks through examples, formulas, and code step by step.
+- Covers technical vocabulary, common misconceptions, and exam strategies.
+- Tests understanding through interactive knowledge checks.
+- Recommends relevant English-language educational videos.
+- Provides concise summaries for studying and exam preparation.
+
+The skill is designed to help students develop a deeper understanding of course material rather than simply memorizing information.
+
 ## Adding Skills
 
 Each skill has its own directory containing a `SKILL.md` file. Some skills may also include supporting files, scripts, or reference materials.
